@@ -1,18 +1,18 @@
-# Insomnia API Client
+# Nocturnal API Client
 
-[![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/)
-[![license](https://img.shields.io/github/license/Kong/insomnia.svg)](LICENSE)
+< add badges here > 
 
-Insomnia is an open-source, cross-platform API client for GraphQL, REST, WebSockets, Server-sent events and gRPC.
+Nocturnal is a fork of the Insomnia API Client made by [Kong](https://konghq.com/). 
 
-![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+This is an open-source, cross-platform API client for GraphQL, REST, WebSockets, Server-sent events and gRPC. 
+
+< add image here > 
 
 ## Download
 
-Insomnia is available for Mac, Windows, and Linux and can be downloaded
-from the website.
+Nocturnal is available for Mac, Windows, and Linux and can be downloaded from the website.
 
-**[https://insomnia.rest/download](https://insomnia.rest/download/)**
+< add download link here > 
 
 ## Bugs and Feature Requests
 
